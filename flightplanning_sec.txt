@@ -1,0 +1,4 @@
+HOST: 49.sundair.com
+USERNAME: sundair.com_ztu35prf1j
+PASSWORD: 1wDqU5~lHi8r@yjg
+REMOTE_PATH: /sundair.com/test-suncrew-flights.sundair.com
